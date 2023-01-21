@@ -31,7 +31,7 @@ while True:
     else:
         print(Fore.RED + "You lose!")
 
-    restart = input(Fore.BLACK + "Do you want to restart? Press y/n:")
+    restart = input(Fore.BLACK + "Do you want to restart? Press [y] or [n]:")
 
     if restart == "y":
         continue
