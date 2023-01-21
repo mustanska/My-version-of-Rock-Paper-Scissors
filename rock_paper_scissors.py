@@ -36,6 +36,7 @@ while True:
     if restart == "y":
         continue
     elif restart == "n":
+        print("Bye.")
         break
     else:
         print("Invalid Input.")
