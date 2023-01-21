@@ -13,3 +13,9 @@ You are the winner when:
 Draw is when the choise is the same both of two sides.
 
 In other choises you lose.
+
+Play the game directly from here: <a href='https://replit.com/@mustanska/RockPaperScissors'> Rock, Paper, Scissors </a> and have fun.
+
+It looks like that:
+
+![Rock_Paper_Scissors](https://user-images.githubusercontent.com/122823838/213889700-f158652f-6966-4912-aa31-7f3793893804.jpg)
